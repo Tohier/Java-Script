@@ -21,9 +21,9 @@
 console.log("Hello JavaScript");
 // this is how u make a variable
 
-var age =19;
+var age=19;
     name= " Toyer";
-    gender= " male"
+    gender= " male";
 
 console.log(name);
 console.log(age);
